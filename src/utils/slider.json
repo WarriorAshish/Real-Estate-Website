@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Raghuvanshi Bhavan",
+    "price": "1.5Cr",
+    "detail": "125 Raghav Street , Rajajinagar , Bangalore ",
+    "image": "./r1.png" 
+  },
+  {
+    "name": "KrishnaSarovar Mansion",
+    "price": "1.2Cr",
+    "detail": " 789 Govardhan Road, Whitefield, Bangalore",
+    "image": "./r2.png"
+  },
+  {
+    "name": "BrahmaVihar Galaxy",
+    "price": "1.7Cr",
+    "detail": "567 Satyaloka Road, HSR Layout, Bangalore",
+    "image": "./r3.png"
+  },
+  {
+    "name": " SarasvatiSannidhi Estates",
+    "price": "1.4Cr",
+    "detail": " 890 Prana Road, Sarjapur Road, Bangalore",
+    "image": "./r4.png"
+  },
+  {
+    "name": "VayuVihar Bhavan",
+    "price": "1.5Cr",
+    "detail": "789 Vidyadayaka Road, Whitefield, Bangalore",
+    "image": "./r5.png"
+  },
+  {
+    "name": "NarayanaNivas Galaxy",
+    "price": "1.8Cr",
+    "detail": "234 Vaikuntha Lane, Koramangala, Bangalore",
+    "image": "./r6.png"
+  }
+]
